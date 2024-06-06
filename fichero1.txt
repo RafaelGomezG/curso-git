@@ -1,1 +1,2 @@
 Cambios en el fichero
+Añadiendo un cambio que se aplicará en el edit del rebase
